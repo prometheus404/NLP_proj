@@ -1,0 +1,43 @@
+Players will take turns. On each turn you may either place a new piece on an empty space, or move a stack of pieces that is under your control.
+The goal is to build a road, which is a string of pieces that connects opposite sides of the board. Here are
+some examples of a winning road:
+Spaces on the Tak board are connected only by their
+edges. Roads do not connect diagonally, and pieces do not move diagonally.
+The game ends if either player makes a road, or runs out of pieces, or if the board is completely full. If the game ends without a road, then the player with the most flat stones wins. Details in the pages that follow.
+The Pieces 
+
+# The Pieces
+There are two types of Tak piece: stones and capstones. 
+Stones can be played in two ways: flat or standing.
+- Flat Stones: Usually, stones are played flat. Flat stones can stack, and they can count as part of a road.
+- Standing Stones: You can also place a stone on end. Standing stones do not count as part of your road, and nothing can be stacked on top of them. This makes them good for blocking, so they are sometimes called “walls.”
+
+Capstones: Capstones combine the best aspects of standing and flat stones. They do count as part of a road, and they can’t have other pieces stacked on top of them.
+In addition, a capstone can move onto a standing stone (of either
+color) and flatten it. When the capstone flattens a standing stone, it must act by itself, although this can happen at the end of a longer move. You can find an example of this maneuver on page 5
+
+# Setting Up
+The 5x5 board starts empty. Check that each player has 21 stones and one capstone. In the first game, determine randomly who will go first. After that, you should take turns going first.
+On the first turn of the game, each player places one of their opponent’s stones. You may play this stone in any empty space, and it must be flat.
+After this, players play their own stones.
+For example, if White goes first, White plays a Black flat
+stone, then Black plays a White flat stone, then White
+takes the first normal turn.
+
+# The Goal
+The goal is to create a road, which is a string of your pieces connecting opposite sides of the board. A road
+does not have to be a straight line. Standing stones cannot be part of your road, but your capstone can.
+Spaces do not connect diagonally. Each space along this path has a stack with a black flat stone or
+capstone on top.
+Other Ways to Win
+- Flat Win: If either player runs out of pieces, or if the board is full, then the game ends. If neither player has a road, then the player with the most flat stones wins. Count only the flat stones on top of stacks, not those buried within stacks. If this is tied, the game is a draw.
+- Double Road: If a player creates a winning road for both players in the same move, then the active player is the winner. (That is, the player whose turn it is.) For example, if White creates both a white road and a black road, then White wins because it is White’s turn
+
+# On Each Turn
+On your turn you may either place a piece in an empty space, or move one of the stacks under your control.
+*Note*: If you place your last piece, or if you fill the last space on the board, this ends the game. See Other Ways to Win at left.
+- Place: You can place a flat stone, standing stone, or capstone in any empty space on the board. You never play a new piece directly on another one. Stacks form only as a result of movement.
+- Move: You can move one or more pieces in a stack that you control. A stack can be any height, including just one piece. “Control” simply means that your piece is on top. To move a stack, take as many as five pieces off the top (see Carry Limit, at right), and move them in a straight line, dropping at least one piece off the bottom in each space along the way. The pieces that you drop will cover any stacks that are in their path.
+Capstones and standing stones block movement, because they cannot be covered.
+Standing stones and capstones move by the same rules as flat stones. If the piece above were a capstone, it
+would also have the option to move left, and flatten the standing stone (see Flattening Walls, at right)

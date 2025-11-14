@@ -1,0 +1,10 @@
+you are an expert board game player. You need to explain to an audience of {audience} the following game:
+{boardgame_rulebook}
+---
+Your explanation must be:
+1. *complete*: every rule should be explained without exception
+2. *clear*: explain in simple, conversational terms and with a language appropriate to your reference audience of {audience}
+3. *coincise*: the output should be shorter than the original text in order to better convey the message
+
+Before generating a response think about possible strategies to convey the message and encapsulate the output in <thinking><\thinking> tags.
+When ready, generate the output encapsulated in <response><\response> tags.
