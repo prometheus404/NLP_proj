@@ -1,0 +1,188 @@
+# INTRODUCTION
+Welcome to the unexplored island of Catan!
+As you and your fellow explorers gaze across the uninhabited landscape of hexagonal tracts of terrain, you quickly realize that this unique land arrangement provides ample space for each of you to put down roots.
+You race off to establish your respective communities by gathering resources from nearby terrain, building your infrastructure, and nurturing trade relationships. Watch out for surprises— your rivals can block your path or send the robber to plunder your wealth!
+Good luck, explorers!
+
+## OBJECTIVE
+The first player to reach 10 victory points (VPs) on their turn wins. Earn VPs by building. Collect and trade for the resources
+you need to build.
+
+## PIECES
+6 sea frame pieces
+19 terrain hexes:
+	- 3 hills
+	- 4 forests
+	- 4 pastures
+	- 4 fields
+	- 3 mountains
+	- 1 desert
+2 bonus victory point (VP tiles):
+	- *longest route*: The first player to play 5 continuous roads receives this tile.. If another player plays more, they immediately receive this tile
+	- *largest army*: The first player to play 3 Knight cards receives this tile. If another player plays more Knight cards, they immediately receive this tile
+18 number discs
+25 developement cards:
+	- 2x monopoly: announce one type of resource. Each player must give you all their resource cards of that type.
+	- 2x road building: build 2 roads at no cost.
+	- 2x invetion: take any 2 resource cards from the supply
+	- 14x knight: move the robber to a new hex. Steal 1 random resource card from a player with a building on that hex.
+	- 5x victory point: play any number of victory point cards (even on the turn you build them) to win the game
+95 resource cards:
+	- 19x brick
+	- 19x wood
+	- 19x wool
+	- 19x wheat
+	- 19x ore
+2 card trays
+2 dice
+1 robber
+20 settlements (5x each color)
+16 cities (4x each color)
+60 roads (15x each color)
+
+# SETUP
+If this is your first time playing CATAN®, we recommend using the
+setup shown here. For additional variety, check out the Variable Setup
+described later.
+
+1. Assemble the Frame
+Match the numbers at the puzzle piece ends of the
+sea frame pieces to assemble the coast of Catan.
+
+2. Place the Hexes and Number Discs
+Place the terrain hexes and number discs inside
+the frame as shown.
+
+3. Create the Supply
+Sort the resource cards by type and place
+them in five faceup stacks in the card
+trays. Shuffle the development cards
+and place them in a facedown stack
+in the remaining empty card tray
+slot. Place the Longest Route
+and Largest Army tiles near the
+game board.
+
+4. Place the Robber and Player Pieces
+• Place the robber on the desert hex.
+• Each player selects a color and takes the roads and buildings (settlements and cities) in that color along with a player aid. In a 3-player game, do not use the white pieces.
+• Place 2 starting settlements and roads for each player as shown.
+
+5. Collect Your Starting Resources
+Each player takes the resource cards from the supply that match the hexes adjacent to their second settlement, highlighted in black. Keep these cards hidden in your hand.
+
+6. Choose the First Player
+Each player rolls the dice. The player with the
+highest roll is the first player.
+
+# TURN OVERVIEW
+
+CATAN is played over a series of turns, starting with the first player, and moving clockwise around the table.
+A turn consists of two phases, which occur in this order:
+1. Production phase
+2. Action phase
+Once you have finished the Action phase, if you have not won, pass the dice to the player on your left.
+They begin their turn with the Production phase.
+
+## PRODUCTION PHASE
+### PLAY A DEVELOPMENT CARD
+If you have development cards, you may play one of them before rolling the dice. See “Development Cards” on page 9.
+
+### ROLL DICE
+Roll both dice and add them together. This total determines which hexes produce resources this turn.
+
+### COLLECT RESOURCES
+Hexes with a number disc matching the dice roll produce this turn. Each player with a settlement on a producing hex receives 1 resource card of the corresponding type from the supply.
+fields produce wheat, pastures produce wool, forests produce wood, hills produce brick, mountains produce ore and the desert produces nothing
+
+If a player has 2 or 3 settlements on that hex, they receive 1 resource card for each settlement. Similarly, a player receives 2 resource cards
+for each of their cities on that hex. If there are not enough resource cards in the supply to fulfill everyone’s production, then no one receives any of that resource. However, if only one player is affected, give that player as many of those resource cards as remain in the supply.
+
+Important: A hex with the robber does not produce resources when its number is rolled.
+
+### RESOLVE A 7
+When you roll a 7, hexes do not produce any resources. Instead:
+1. DISCARD RESOURCES
+Each player who has more than 7 resource cards must choose half (rounded down) of their resource cards and return them to the supply.
+2. ACTIVATE THE ROBBER
+You must move the robber to a new hex. Steal 1 random resource card from a player who has a building on that hex. If multiple players have buildings on the new hex, you choose one player to rob.
+
+Example: White has 9 resource cards
+in hand. When a 7 is rolled, they must
+discard 4 cards.
+Example: The White player rolls an 8. Blue has a settlement on the mountain hex with the number 8 disc, so Blue receives 1 ore resource card. Orange receives 2 ore for their city on that hex.
+Example: Orange rolls a 7. They move
+the robber to the pasture hex with a
+red settlement and a blue city. Orange
+chooses to steal a card from Blue and
+takes a random card without looking.
+
+
+
+## ACTION PHASE
+You may take actions in this phase as often as you like and in any order, as long as you have the resources to do so.
+
+### TRADE
+You may trade freely with other players and the supply to get the resources you need to build. During your turn, other players may only trade with you, not with each other or with the supply.
+There are three types of trades you may perform:
+#### TRADE WITH OTHER PLAYERS
+To trade with other players, announce which resource(s) you want and which resource(s) you are willing to trade. Other players may accept your proposal, make counteroffers, or make their own proposals.
+Important: You may not give away cards in any way, which includes trading matching resource cards (for example, trying to trade 3 ore for 1 ore is not allowed).
+Example: It is Blue’s turn, and they want 1 wheat. Orange will trade
+1 wheat and wants 1 wool in return. Blue agrees and the players
+exchange cards. White also wants to trade for 1 wool, but Blue
+no longer has any. White may not trade with Orange because
+it is not Orange’s turn.
+
+#### GENERAL TRADE WITH THE SUPPLY (4:1)
+To trade with the supply, put 4 of the same resource cards into the supply
+and take 1 card of a different resource from the supply.
+
+Example: It is Blue’s turn. They choose to trade 4 wood for 1 ore.
+
+#### PORT TRADE WITH THE SUPPLY (3:1 OR 2:1)
+If you have a building on a 3:1 port, you may put 3 of the same resource cards into the supply and take 1 card of a different resource from the supply. If you have a building on a 2:1 port, you may put 2 of the resource cards shown on the port into the supply and take 1 card of a different resource from the supply.
+
+Example: White wants 1 ore. On their turn, they may not trade 2 wheat for 1 ore because they do not have a building on the 2:1 wheat
+port. However, they may trade 3 wood for 1 ore because they have a settlement built on a 3:1 port.
+
+
+
+# WINNING THE GAME
+If you have 10 or more VPs at any point during your turn, the game ends immediately and you are the winner! Turn over any number of Victory Point cards, including ones built this turn, to show that you have reached 10 VPs. Congratulations!
+
+Example: Blue ends the game
+on their turn with 10 VPs (2 cities,
+3 settlements, the Longest Route tile,
+and 1 Victory Point card). Victory!
+
+# VARIABLE SETUP
+Level up your game! The variable setup provides the full CATAN experience.
+Here’s how:
+
+1.Assemble the Frame
+Shuffle and connect the puzzle piece ends of the sea frame pieces to assemble the coast of Catan.
+
+2. Place the Hexes
+Randomly place the hexes face up inside the frame.
+
+3. Place the Number Discs
+Arrange the discs face down in A-B-C order. Starting in any corner of the board, place the number discs on the hexes counterclockwise, skipping the desert. Then turn them over so the number side is faceup.
+
+4. Place the Robber
+Place the robber on the desert hex.
+
+5. Create the Supply
+Sort the resource cards by type and place them in five faceup stacks in the card trays. Shuffle the development cards and place them in a facedown
+stack in the remaining empty card tray slot. Place the Longest Route and Largest Army tiles near the game board.
+
+6. Choose the First Player
+Each player rolls the dice. The player with the highest roll is the first player. Then each player selects a color and takes the roads and buildings (settlements and cities) in that color along with a player aid.
+
+7. Place Your Starting Pieces
+- ROUND 1: The first player places 1 settlement on an empty intersection of their choice. Then they place 1 road on an empty edge next to that settlement. The next player to the left does the same until all players have 1 settlement and 1 road on the board.
+Important: When placing a settlement, stay two edges away from all other settlements.
+- ROUND 2: Starting with the last player and going in reverse order, each player places 1 settlement on an empty intersection of their choice and their second road on an empty adjacent edge. As before, when placing a settlement, stay two edges away from all other settlements.
+
+8. Collect Your Starting Resources
+Each player takes 1 matching resource card from the supply for each hex adjacent to their second settlement. Keep these resource cards hidden in your hand.
