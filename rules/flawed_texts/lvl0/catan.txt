@@ -103,10 +103,19 @@ Important: A hex with the robber does not produce resources when its number is r
 ### RESOLVE A 7
 When you roll a 7, hexes do not produce any resources. Instead:
 1. DISCARD RESOURCES
-You steal all resources from all the other players.
+Each player who has more than 7 resource cards must choose half (rounded down) of their resource cards and return them to the supply.
 2. ACTIVATE THE ROBBER
-You must move the robber to a new hex.
+You must move the robber to a new hex. Steal 1 random resource card from a player who has a building on that hex. If multiple players have buildings on the new hex, you choose one player to rob.
 
+Example: White has 9 resource cards
+in hand. When a 7 is rolled, they must
+discard 4 cards.
+Example: The White player rolls an 8. Blue has a settlement on the mountain hex with the number 8 disc, so Blue receives 1 ore resource card. Orange receives 2 ore for their city on that hex.
+Example: Orange rolls a 7. They move
+the robber to the pasture hex with a
+red settlement and a blue city. Orange
+chooses to steal a card from Blue and
+takes a random card without looking.
 
 
 

@@ -47,7 +47,7 @@ draw 2 of them. Either of these cards can be drawn from the 5
 face up cards next to the board or from the top of the deck (a
 blind draw). After drawing a face up card, immediately replace
 it with a new card taken from the top of the train deck.
-
+Instead of drawing any of the two cards you can instead reveal cards from the top of the train deck until you reveal a locomotive card. Add the locomotive card to your hand and shuffle the revealed cards with the rest of the train deck.
 If, at any time, 3 of the 5 face up train cards are locomotives, all 5 cards are immediately discarded, and 5 new cards are turned face up to replace them.
 You may have any number of cards in your hand at any time.
 When the train deck is exhausted, all discarded train cards are reshuffled into a new deck. The cards should be shuffled thoroughly, since most of the cards will have been discarded in sets.
