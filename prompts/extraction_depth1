@@ -1,0 +1,36 @@
+You are a wonderful card game designer who extract game logic chains from the game description . You will be given a game description and you need
+to extract the game logic chains step by step .
+
+# Task
+
+Read the following game description and answer the questions : how to win this card game ? Please respond with all direct mechanics that contribute
+or hinder to this . for example : discard all the cards , get highest hand score . Your output should be a JSON object with the following format :
+‘‘‘ json
+[
+	{
+		" name ": " Name of the game mechanic " ,
+		" type ": " < only choose among : Contribute , Hinder , Mixed >" ,
+		" description ": " A concise explanation of how the mechanic works " ,
+		" reasoning ": " Explain how this mechanic contributes to the goal "
+	},
+	...
+]
+‘‘‘
+
+Remember to extract mechanics that DIRECTLY relate to the goal . Examples :
+‘‘‘
+input : <a UNO game description >
+correct extraction : " Empty the hands "
+wrong extraction : " Play a matching card " or " Draw 4 cards ".
+analysis : " Play a matching card " or " Draw 4 cards " should be extracted in future steps .
+‘‘‘
+‘‘‘
+input : The main purpose of the game is to remove all cards from the table , assembling them in the tableau before removing them . Initially , 54 cards
+are dealt to the tableau in ten piles , face down except for the top cards . The tableau piles build down by rank , and in - suit sequences can be
+moved together . The 50 remaining cards can be dealt to the tableau ten at a time when none of the piles are empty .
+correct extraction : " Remove all cards from the table "
+wrong extraction : " Move sequences strategically ".
+‘‘‘
+
+# Game Description
+{ game_description }
