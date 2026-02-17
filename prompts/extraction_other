@@ -1,7 +1,8 @@
-What are the game mechanics / concept that directly trigger / stop this mechanic : { goal }? Please respond with the direct mechanic that contributes to this .
+What are the game mechanics/concept that directly trigger/stop this mechanic : "{goal}"? Please respond with the direct mechanic that contributes to this .
 - Try your best to extract ALL direct mechanics .
 - When evaluating, pay special attention to mechanics that are interesting or unique .
-- You can choose from previously extracted mechanics : { previous_mechanics }. But you can also extract new mechanics/concepts .
+- avoid returning "{goal}" as a mechanic and **DO NOT** extract already mentioned mechanics/concept.
+- focus on mechanics and avoid strategies
 - Use the same format as before.
 - Usually there are always mechanics or concepts to extract , unless you have reached the end of the chain such as card design or very basic
 elements .

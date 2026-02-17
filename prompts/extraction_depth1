@@ -3,7 +3,7 @@ to extract the game logic chains step by step .
 
 # Task
 
-Read the following game description and answer the questions : how to win this card game ? Please respond with all direct mechanics that contribute
+Read the following game description and answer the questions : how to win this game? Please respond with only direct mechanics that contribute
 or hinder to this . for example : discard all the cards , get highest hand score . Your output should be a JSON object with the following format :
 ‘‘‘ json
 [
@@ -17,7 +17,8 @@ or hinder to this . for example : discard all the cards , get highest hand score
 ]
 ‘‘‘
 
-Remember to extract mechanics that DIRECTLY relate to the goal . Examples :
+Remember to extract only mechanics that DIRECTLY relate to the goal. Be **EXTREMELY CONSERVATIVE** with your extraction and provide only the minimal fitting set of mechanics, other mechanics that relate more loosely with the goal will be extracted in next steps.
+Examples :
 ‘‘‘
 input : <a UNO game description >
 correct extraction : " Empty the hands "
@@ -32,5 +33,3 @@ correct extraction : " Remove all cards from the table "
 wrong extraction : " Move sequences strategically ".
 ‘‘‘
 
-# Game Description
-{ game_description }
