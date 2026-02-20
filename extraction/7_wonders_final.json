@@ -1,0 +1,40 @@
+{
+    "0": [
+        "Highest total Victory Points wins"
+    ],
+    "1": [
+        "Civilian structure Victory Points",
+        "Military Victory Points",
+        "Scientific set Victory Points",
+        "Guild card Victory Points",
+        "Wonder stage Victory Points",
+        "Coin Victory Points (1 VP per 3 coins)",
+        "Discarded card set Victory Points"
+    ],
+    "2": [
+        "Build a structure card",
+        "Complete a Wonder stage",
+        "Win military conflict",
+        "Collect scientific symbols",
+        "Build a Guild card",
+        "Accumulate coins",
+        "Discard a card for coins",
+        "Pay cost with own resources",
+        "Trade resources with neighbor",
+        "Use wildcard resource when paying",
+        "Apply free\u2011build effect from Wonder",
+        "Form sets of three discarded cards"
+    ],
+    "3": [
+        "Insufficient resources to pay cost",
+        "Choose to discard instead of building",
+        "Pay 2 coins per traded resource",
+        "Neighbor provides required resource",
+        "Free\u2011build limited to specific card type",
+        "Free\u2011build usable once per Wonder stage",
+        "Hand passes each round",
+        "Empty hand when no cards remain",
+        "Insufficient coins for trade",
+        "Wildcard can substitute any resource"
+    ]
+}

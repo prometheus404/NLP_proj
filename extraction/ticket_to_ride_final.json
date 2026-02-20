@@ -1,0 +1,55 @@
+{
+    "0": [
+        "Highest total score wins"
+    ],
+    "1": [
+        "Score points for claimed routes",
+        "Score points for completed tickets",
+        "Deduct points for incomplete tickets",
+        "Score 10 bonus points for longest continuous path",
+        "Tie\u2011breaker: most completed tickets",
+        "Tie\u2011breaker: longest path card if still tied"
+    ],
+    "2": [
+        "Claim a route action",
+        "Use matching train cards (including locomotives) to claim route",
+        "Have enough plastic train pieces to claim route",
+        "Route must be unclaimed and open",
+        "Gray routes can be claimed with any single colour set",
+        "Only one route may be claimed per turn",
+        "Must claim entire route in one turn",
+        "Double\u2011route restriction (only one of a pair in 2\u20113 player games)",
+        "Complete a ticket by forming continuous path between its cities",
+        "Fail to complete a ticket (no continuous path at game end)",
+        "Draw tickets action (draw 3, keep at least one)",
+        "Keep tickets secret until end of game",
+        "Determine longest continuous path of same colour trains",
+        "Each train piece counts only once in a path",
+        "Loops allowed in longest path",
+        "Tie handling for longest path (all tied players receive bonus)",
+        "Game end triggered when a player finishes turn with 0\u20112 trains left",
+        "Final scoring phase after last turn"
+    ],
+    "3": [
+        "Turn structure: choose exactly one of draw cards, claim route, draw tickets",
+        "Clockwise turn order",
+        "First player determination",
+        "Initial hand of 4 train cards dealt to each player",
+        "Initial allocation of 45 plastic trains per player",
+        "Draw train cards: up to two per turn from face\u2011up or deck",
+        "Face\u2011up locomotive must be drawn first and prevents second draw",
+        "When three face\u2011up locomotives appear, discard all five and reveal new cards",
+        "Replace drawn face\u2011up card with top of deck",
+        "Blind draw from deck counts as one card; still may draw second card",
+        "If deck exhausted, reshuffle discard pile into new deck",
+        "If no cards and no discard pile, draw\u2011cards action unavailable",
+        "Ticket deck: draw 3 tickets, return unkept to bottom",
+        "Players may keep any number of tickets after initial selection (minimum 2)",
+        "Low train piece check at end of turn may trigger game end",
+        "No replenishment of plastic train pieces",
+        "Final turn sequence: each player gets one extra turn after trigger",
+        "Scoring calculation: add route points, ticket points, longest path bonus",
+        "Deduct points for each incomplete ticket",
+        "Award longest path bonus card to player(s) with longest path"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "0": [
+        "Reach 10 Victory Points"
+    ],
+    "1": [
+        "Build Settlement",
+        "Build City",
+        "Gain Longest Route tile",
+        "Gain Largest Army tile",
+        "Play Victory Point card"
+    ],
+    "2": [
+        "Settlement cost: 1 brick 1 wood 1 wool 1 wheat",
+        "Settlement piece available",
+        "Settlement placement: empty intersection distance rule adjacent road",
+        "City cost: 2 wheat 3 ore",
+        "City piece available",
+        "City upgrades settlement",
+        "Road cost: 1 brick 1 wood",
+        "Road piece available",
+        "Road placement must connect to own road or building",
+        "Road cannot pass opponent building",
+        "Longest Route requires 5 continuous roads",
+        "Longest Route must be longest among players",
+        "Largest Army requires at least 3 played knights",
+        "Largest Army must exceed other players' knight counts",
+        "Play Knight moves robber",
+        "Development card purchase cost: 1 wool 1 wheat 1 ore",
+        "Development card supply available",
+        "Victory Point card may be played immediately",
+        "Discard half of hand when rolling 7",
+        "Robber blocks production on its hex",
+        "Collect resources from hexes matching dice roll",
+        "Trade with players, bank, or ports",
+        "Action phase permits building, trading, playing cards",
+        "Initial settlements grant starting resources"
+    ],
+    "3": [
+        "Roll dice (non\u20117) determines active number",
+        "Roll dice equals 7",
+        "Player has required resource cards",
+        "Resource supply has enough cards",
+        "Player has settlement piece left",
+        "Player has city piece left",
+        "Player has road piece left",
+        "Player has development card in hand",
+        "Player has knight card in hand",
+        "Player holds four identical resources for 4:1 bank trade",
+        "Player has settlement on 3:1 port",
+        "Player has settlement on 2:1 specific resource port",
+        "Player proposes trade to another player",
+        "Other player accepts trade",
+        "Other player makes counter\u2011offer",
+        "Player chooses player to rob after moving robber",
+        "Evaluate continuous road length after road placement",
+        "Compare knight counts after knight play",
+        "Update victory point total after building or card play",
+        "Turn start: active player begins production phase",
+        "Turn end: pass dice to next player"
+    ]
+}

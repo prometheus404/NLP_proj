@@ -1,0 +1,40 @@
+You are a precise rules editor. I will give you two inputs:
+1) The original game rulebook text (exactly as written).
+2) A three-level extracted hierarchy produced earlier, formatted like this:
+{ "1": [...], "2":[...], "3":[...] }
+Each list currently contains short rule phrases (one phrase per list item).
+
+Your task: Compare the extracted hierarchy against the rulebook and produce a corrected, minimal hierarchy JSON with exactly the same structure {"1": [], "2": [], "3": []}. Each list must contain only concise rule phrases (one phrase each), no sentences, no explanations, no extra text before or after the JSON. Follow these rules exactly:
+
+Rules for editing and restructuring
+- Keep only rules that are actual rules or mechanics found in the rulebook text. Do NOT include strategies, advice, or commentary.
+- The three levels mean:
+  - "0": the win condition
+  - "1": rules that directly define or affect the win condition.
+  - "2": rules that directly trigger, enable, or block items in level 1 (mechanics that directly cause or prevent the level-1 rules).
+  - "3": rules that directly trigger, enable, or block items in level 2 (mechanics that directly cause or prevent level-2 rules).
+- Do not create new hierarchy levels; only move rules among the existing three levels.
+- If a rule phrase in the provided hierarchy is not present in the rulebook, remove it.
+- If the rulebook contains a rule that directly belongs in level 1, 2, or 3 but is missing from the hierarchy, add it at the correct level.
+- Merge duplicate or near-duplicate rules into a single concise phrase.
+- If a phrase is compound (contains multiple rules), split it into separate phrases, each placed at the appropriate level.
+- Remove any items that are pure strategy, player advice, or interpretation — keep only explicit mechanics and rule statements.
+- Preserve minimal wording: each item must be a short phrase (no punctuation-heavy sentences), focused on a single mechanic (e.g., "Empty the hand", "Deal five cards", "Score highest points").
+- Never include the win condition phrase as a mechanic under the level that it already represents unless the rulebook explicitly lists that phrase as an actionable rule.
+- If a rule in the rulebook clearly affects multiple levels, place it at the most direct level where it triggers/prevents another listed rule; do not duplicate it across levels.
+
+Formatting requirements
+- Output must be exactly one JSON object with keys "0","1","2","3" and lists as values.
+- Each list element must be a single short phrase (one rule mechanic).
+- No extra text, headings, explanation, or metadata — only the JSON.
+- Use double quotes for JSON keys and string values.
+- If no rules belong in a given level, the list must be empty: [].
+
+Procedure to follow before producing output
+1. Read the entire rulebook text carefully.
+2. Read the provided three-level hierarchy.
+3. For each phrase in the hierarchy, verify it against the rulebook:
+   - Keep, move, merge, split, or remove as required by the rules above.
+4. Search the rulebook for any missing explicit mechanics that directly belong in level 1, 2, or 3 and add them.
+5. Ensure the final JSON strictly follows the structure and phrasing constraints.
+Read carefully these instruction, take your time and ensure you fully understand them. After that respond with 'ready' wait the user to submit you the game rulebook and the extracted ruleset.

@@ -1,0 +1,36 @@
+{
+    "0": [
+        "Player who powers most cities wins (tie\u2011breaker most money)"
+    ],
+    "1": [
+        "Game ends after Phase\u202f4 when a player reaches the city\u2011threshold",
+        "Final Bureaucracy phase checks powered cities instead of paying cash",
+        "Powered cities limited by connected cities and plant capacity",
+        "Tie broken by remaining money"
+    ],
+    "2": [
+        "Phase\u202f4 (Build Houses) adds connected cities",
+        "Step barriers limit houses per city (Step\u202f1\u202f=\u202f1, Step\u202f2\u202f=\u202f2, Step\u202f3\u202f=\u202f3)",
+        "City\u2011threshold values depend on player count",
+        "Game End barrier placed on scoring track after threshold reached",
+        "Phase\u202f5 (Bureaucracy) calculates powered cities",
+        "Players choose which plants to run and how many cities to supply",
+        "Plant capacity numbers limit cities a plant can supply",
+        "Resource availability limits plant activation",
+        "Scrapping a plant when buying a fourth may reduce capacity"
+    ],
+    "3": [
+        "Connecting a city costs house cost plus connection cost",
+        "Player must have enough Elektro to pay building costs",
+        "Reverse player order in Phase\u202f4 and Phase\u202f5",
+        "Auction Phase\u202f2 determines owned power plants",
+        "Discount token reduces minimum bid of smallest market plant to 1",
+        "Resource market purchase follows price markers and token availability",
+        "Hybrid plants accept coal or oil; ecological plants need no resources",
+        "Each plant stores up to twice its required resources",
+        "Resource market refilled each round according to step refill table",
+        "Step\u202f2 begins when any player reaches city\u2011threshold",
+        "Step\u202f3 begins when Step\u202f3 card drawn",
+        "Game End barrier placed when threshold reached"
+    ]
+}
