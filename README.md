@@ -1,4 +1,4 @@
-# LLM Evaluation on Board Game Rules
+# Boardgames Are Made Of Rules
 ## Project Overview
 This project evaluates how well different large language models (LLMs) process, analyze, and extract information from board-game rule texts. By testing models on real board games from the BoardGameGeek Hall of Fame, we assess their ability to interpret formal logic and adapt complex information to different contexts.
 ## Objectives
